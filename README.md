@@ -1,6 +1,6 @@
 # NodeJs E-mail  
 Nodejs e nodemailer.
-Exemplo de uma aplicação envio de e-mail.  
+Exemplo de uma aplicação de envio de e-mail.  
 
 ## Start
 ```bash
